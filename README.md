@@ -14,6 +14,9 @@ I build REST APIs, data pipelines and scrapers that keep running: PHP (Laravel, 
 | [python-scrapers](https://github.com/salmantariq596/python-scrapers) | Resumable Playwright scrapers: Alibaba products (pricing tiers, variants, seller data) and the FSC Mauritius licensee register (5 parallel workers → Excel) |
 | [weather-data-pipeline](https://github.com/salmantariq596/weather-data-pipeline) | Airflow-orchestrated ETL from 2 weather APIs → PostgreSQL, dbt models, Redis dedup, data quality scoring, Grafana |
 | [chrome-extensions](https://github.com/salmantariq596/chrome-extensions) | Manifest V3 extensions: a futures trading assistant and a contractor-data scraper |
+| [laravel-shopify-modules](https://github.com/salmantariq596/laravel-shopify-modules) | Modular Laravel app with Shopify Admin API sync (customers, products, orders, discounts) |
+| [codeigniter-pos](https://github.com/salmantariq596/codeigniter-pos) | Retail POS & inventory: invoices, warehouses, roles, ZIP-installable modules, self-update with rollback |
+| [zesti-otp-api](https://github.com/salmantariq596/zesti-otp-api) | Laravel 11 OTP sign-up API on Railway |
 | [android-apps](https://github.com/salmantariq596/android-apps) | Task manager (Room), Lost & Found (Google Maps), unit converter (Kotlin) |
 
 🌐 Portfolio: [salmantariq596.github.io](https://salmantariq596.github.io)
