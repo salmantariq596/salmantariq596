@@ -1,13 +1,20 @@
 # Hi, I'm Salman Tariq 👋
 
-**Backend & Python Data Engineer** based in Bahawalpur, Pakistan, open to on-site and remote roles.
+**Data & Backend Engineer** based in Pakistan, open to remote and on-site roles.
 
-I build REST APIs, data pipelines and scrapers that keep running: PHP (Laravel, Slim) for fintech-grade backends, and Python (FastAPI, Playwright, Airflow, dbt) for getting data from the web into clean databases.
+I build data platforms, scrapers and APIs that keep running: PySpark and Databricks lakehouses for analytics, Python (FastAPI, Playwright) for getting data from the web into clean databases, and PHP (Laravel, Slim) for fintech-grade backends.
+
+### ⭐ Flagship: [Dubai Property Data Platform](https://github.com/salmantariq596/dubai-property-data-platform)
+
+An Azure lakehouse that turns official Dubai Land Department records, **1.38 million sales** and **95,561 rent contracts**, into a Power BI market dashboard.
+Bronze → silver → gold on Databricks and Delta Lake · Kimball star schema with SCD Type 2 · **25 data-quality checks** · **515 tests, 98% coverage** · Azure infrastructure in Terraform with **zero stored secrets**.
+
+[![Dubai property market dashboard](https://raw.githubusercontent.com/salmantariq596/dubai-property-data-platform/main/docs/img/dashboard-market-overview.png)](https://github.com/salmantariq596/dubai-property-data-platform)
 
 ### 🔧 Tech
-`Python` `PHP` `SQL` `JavaScript` · `FastAPI` `Laravel` `Slim` `CodeIgniter` · `PostgreSQL` `MySQL` `SQL Server` `Redis` · `Airflow` `dbt` `Pandas` `Playwright` · `Docker` `pytest` `Grafana` `Git`
+`Python` `SQL` `PHP` `JavaScript` · `PySpark` `Databricks` `Delta Lake` `Unity Catalog` `Airflow` `dbt` · `Azure Data Factory` `ADLS Gen2` `Terraform` `Power BI` · `FastAPI` `Laravel` `Slim` · `PostgreSQL` `MySQL` `SQL Server` `Redis` · `Docker` `GitHub Actions` `pytest` `Playwright`
 
-### 📌 Featured projects
+### 📌 More projects
 | Project | What it is |
 |---|---|
 | [real-estate-scraping-platform](https://github.com/salmantariq596/real-estate-scraping-platform) | FastAPI + PostgreSQL platform: async discovery and detail workers, Playwright fallback, rotating proxies, admin dashboard, 78 tests |
@@ -19,12 +26,9 @@ I build REST APIs, data pipelines and scrapers that keep running: PHP (Laravel, 
 | [zesti-otp-api](https://github.com/salmantariq596/zesti-otp-api) | Laravel 11 OTP sign-up API on Railway |
 | [android-apps](https://github.com/salmantariq596/android-apps) | Task manager (Room), Lost & Found (Google Maps), unit converter (Kotlin) |
 
-🌐 Portfolio: [salmantariq596.github.io](https://salmantariq596.github.io)
-
 ### 💼 Experience
-- **Freelance Software Engineer** (2025 – now): scraping/ETL platforms, Chrome extensions, on-site POS deployments and customization for local retailers
-- **Full Stack Developer, SoftwareSystem** (2023 – 2025): mobile-banking API in PHP integrating VTPass, Paystack and core banking
+- **Freelance Software Engineer** (2025 – now): scraping and ETL platforms, Chrome extensions, on-site POS deployments and customization for local retailers
+- **Full Stack Engineer, SoftwareSystem** (2023 – 2025): mobile-banking API in PHP integrating VTPass, Paystack and core banking
 
 ### 📫 Contact
-salmantariq596@gmail.com · [Portfolio](https://salmantariq596.github.io)
-<!-- After LinkedIn is set up, add: · [LinkedIn](https://www.linkedin.com/in/your-handle) -->
+salmantariq596@gmail.com · [Portfolio](https://salmantariq596.github.io) · [LinkedIn](https://www.linkedin.com/in/salmantariq596)
